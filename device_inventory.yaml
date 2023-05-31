@@ -79,19 +79,3 @@ device_inventory:
   role: BORDER ROUTER
   site: Global/OR/PDX/Floor-2
   site_id: 17d5b2b9-ff29-4320-bdab-fd6c3d7df09d
-- hostname: PDX-STACK
-  device_ip: 10.93.141.21
-  device_id: 224a481b-da09-4d57-bcdd-f5fa962edf32
-  version: 17.3.2a
-  device_family: Cisco Catalyst 9300 Switch
-  role: ACCESS
-  site: Global/OR/PDX/Floor-2
-  site_id: 17d5b2b9-ff29-4320-bdab-fd6c3d7df09d
-- hostname: SP
-  device_ip: 10.93.141.24
-  device_id: 5e75ac86-5811-40eb-b974-6f3c2617505d
-  version: 17.3.2
-  device_family: Cisco Cloud Services Router 1000V
-  role: BORDER ROUTER
-  site: Global/CO/ENGL/Floor-5
-  site_id: f2a5bd0d-4ec9-44ed-bf6a-a43b12378ff1

@@ -95,3 +95,5 @@ device_inventory:
   role: BORDER ROUTER
   site: Global/CO/ENGL/Floor-5
   site_id: f2a5bd0d-4ec9-44ed-bf6a-a43b12378ff1
+
+new_device
